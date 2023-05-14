@@ -107,24 +107,19 @@
   width: 429px;
   height: 1px;
 }
-.book {
-  font-weight: 300;
-}
-.bookmark,
+.bookmark-icon,
 .navigation-bar {
   position: absolute;
-  top: 14px;
-  left: calc(50% - 48px);
+  top: 19.8px;
+  left: calc(50% - 46.22px);
+  width: 93.96px;
+  height: 15.39px;
 }
 .navigation-bar {
   top: 0;
   left: calc(50% - 214px);
   width: 428px;
   height: 56px;
-  text-align: left;
-  font-size: 20px;
-  color: #000;
-  font-family: var(--font-open-sans);
 }
 .mobile {
   position: relative;
