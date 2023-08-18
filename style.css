@@ -4688,10 +4688,12 @@ figcaption {
 }
 
 .image-6 {
+  width: auto;
   height: 48rem;
 }
 
 .image-7 {
+  width: auto;
   height: 32rem;
 }
 
@@ -5831,7 +5833,7 @@ figcaption {
   }
 
   .home_hero-header_image {
-    height: 32rem;
+    height: 28rem;
   }
 
   .home_features-list_component {
