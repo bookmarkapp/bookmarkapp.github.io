@@ -3589,7 +3589,7 @@ figcaption {
 }
 
 .home_hero-header_image {
-  width: auto;
+  width: 40rem;
   height: 40rem;
   max-width: none;
 }
@@ -4705,7 +4705,7 @@ figcaption {
 }
 
 .image-7 {
-  width: auto;
+  width: 32rem;
   height: 32rem;
 }
 
@@ -6005,6 +6005,7 @@ figcaption {
   }
 
   .home_hero-header_image {
+    width: 28rem;
     height: 28rem;
   }
 
@@ -6303,6 +6304,7 @@ figcaption {
   }
 
   .image-7 {
+    width: 28rem;
     height: 28rem;
   }
 
@@ -6441,6 +6443,7 @@ figcaption {
   }
 
   .home_hero-header_image {
+    width: 16rem;
     height: 16rem;
   }
 
@@ -6533,11 +6536,16 @@ figcaption {
     grid-template-columns: 1fr;
   }
 
+  .form-input-3 {
+    min-height: 3.5rem;
+  }
+
   .image-6 {
     height: 32rem;
   }
 
   .image-7 {
+    width: 16rem;
     height: 16rem;
   }
 }
